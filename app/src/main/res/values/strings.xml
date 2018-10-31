@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="show">Show</string>
+    <string name="battery">battery_level</string>
+</resources>
